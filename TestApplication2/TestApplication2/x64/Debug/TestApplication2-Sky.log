@@ -1,0 +1,26 @@
+﻿  CGParams.cpp
+D:\OneDrive - Billion Prima Sdn.Bhd\billionprima_internship\3_Programme\TestApplication2\CGParams.cpp(2,10): error C1083: Cannot open include file: 'CGParams.h': No such file or directory
+  graphics_item.cpp
+  graphics_scene.cpp
+  graphics_view.cpp
+D:\OneDrive - Billion Prima Sdn.Bhd\billionprima_internship\3_Programme\TestApplication2\graphics_view.cpp(71,32): error C2065: 'm_controlWindowCollapsed': undeclared identifier
+D:\OneDrive - Billion Prima Sdn.Bhd\billionprima_internship\3_Programme\TestApplication2\graphics_view.cpp(72,31): error C2065: 'm_windowHeight': undeclared identifier
+D:\OneDrive - Billion Prima Sdn.Bhd\billionprima_internship\3_Programme\TestApplication2\graphics_view.cpp(79,36): error C2065: 'm_windowWidth': undeclared identifier
+D:\OneDrive - Billion Prima Sdn.Bhd\billionprima_internship\3_Programme\TestApplication2\graphics_view.cpp(81,9): error C2065: 'm_windowHeight': undeclared identifier
+D:\OneDrive - Billion Prima Sdn.Bhd\billionprima_internship\3_Programme\TestApplication2\graphics_view.cpp(80,19): error C2672: 'std::clamp': no matching overloaded function found
+  imageprocessor.cpp
+D:\OneDrive - Billion Prima Sdn.Bhd\billionprima_internship\3_Programme\TestApplication2\imageprocessor.h(32,10): error C1083: Cannot open include file: 'CGParams.h': No such file or directory
+  main.cpp
+D:\OneDrive - Billion Prima Sdn.Bhd\billionprima_internship\3_Programme\TestApplication2\imageprocessor.h(32,10): error C1083: Cannot open include file: 'CGParams.h': No such file or directory
+  point_item.cpp
+  rect_item.cpp
+  texture_item.cpp
+D:\OneDrive - Billion Prima Sdn.Bhd\billionprima_internship\3_Programme\TestApplication2\texture_item.cpp(163,9): warning C4838: conversion from 'int' to 'float' requires a narrowing conversion
+D:\OneDrive - Billion Prima Sdn.Bhd\billionprima_internship\3_Programme\TestApplication2\texture_item.cpp(163,9): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+D:\OneDrive - Billion Prima Sdn.Bhd\billionprima_internship\3_Programme\TestApplication2\texture_item.cpp(164,9): warning C4838: conversion from 'int' to 'float' requires a narrowing conversion
+D:\OneDrive - Billion Prima Sdn.Bhd\billionprima_internship\3_Programme\TestApplication2\texture_item.cpp(164,9): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+D:\OneDrive - Billion Prima Sdn.Bhd\billionprima_internship\3_Programme\TestApplication2\texture_item.cpp(164,18): warning C4838: conversion from 'int' to 'float' requires a narrowing conversion
+D:\OneDrive - Billion Prima Sdn.Bhd\billionprima_internship\3_Programme\TestApplication2\texture_item.cpp(164,18): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+D:\OneDrive - Billion Prima Sdn.Bhd\billionprima_internship\3_Programme\TestApplication2\texture_item.cpp(165,18): warning C4838: conversion from 'int' to 'float' requires a narrowing conversion
+D:\OneDrive - Billion Prima Sdn.Bhd\billionprima_internship\3_Programme\TestApplication2\texture_item.cpp(165,18): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+  Generating Code...

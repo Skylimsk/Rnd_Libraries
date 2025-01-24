@@ -1,0 +1,8 @@
+C:\Users\skyli\source\repos\TestApplication2\x64\Debug\SDL2d.dll
+C:\Users\skyli\source\repos\TestApplication2\TestApplication2\x64\Debug\TestAppl.EEAAE80C.Up2Date
+C:\Users\skyli\OneDrive - Billion Prima Sdn.Bhd\billionprima_internship\3_Programme\TestApplication2\x64\Debug\SDL2d.dll
+C:\Users\skyli\OneDrive - Billion Prima Sdn.Bhd\billionprima_internship\3_Programme\TestApplication2\x64\Debug\glew32d.dll
+C:\Users\skyli\OneDrive - Billion Prima Sdn.Bhd\billionprima_internship\3_Programme\TestApplication2\TestApplication2\x64\Debug\TestAppl.EEAAE80C.Up2Date
+D:\OneDrive - Billion Prima Sdn.Bhd\billionprima_internship\3_Programme\TestApplication2\x64\Debug\SDL2d.dll
+D:\OneDrive - Billion Prima Sdn.Bhd\billionprima_internship\3_Programme\TestApplication2\x64\Debug\glew32d.dll
+D:\OneDrive - Billion Prima Sdn.Bhd\billionprima_internship\3_Programme\TestApplication2\TestApplication2\x64\Debug\TestAppl.EEAAE80C.Up2Date

@@ -1,0 +1,34 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: The intermediate directory (TestApplication2\x64\Debug\) contains files shared from another project (TestApplication2-Sky.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  graphics_view.cpp
+  imageprocessor.cpp
+D:\OneDrive - Billion Prima Sdn.Bhd\billionprima_internship\3_Programme\TestApplication2\imageprocessor.cpp(288,29): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\OneDrive - Billion Prima Sdn.Bhd\billionprima_internship\3_Programme\TestApplication2\imageprocessor.cpp(333,20): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\OneDrive - Billion Prima Sdn.Bhd\billionprima_internship\3_Programme\TestApplication2\imageprocessor.cpp(334,21): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\OneDrive - Billion Prima Sdn.Bhd\billionprima_internship\3_Programme\TestApplication2\imageprocessor.cpp(471,33): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\OneDrive - Billion Prima Sdn.Bhd\billionprima_internship\3_Programme\TestApplication2\imageprocessor.cpp(480,28): warning C4244: 'argument': conversion from 'const float' to 'GLsizei', possible loss of data
+D:\OneDrive - Billion Prima Sdn.Bhd\billionprima_internship\3_Programme\TestApplication2\imageprocessor.cpp(479,38): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+D:\OneDrive - Billion Prima Sdn.Bhd\billionprima_internship\3_Programme\TestApplication2\imageprocessor.cpp(862,26): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\OneDrive - Billion Prima Sdn.Bhd\billionprima_internship\3_Programme\TestApplication2\imageprocessor.cpp(863,26): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\OneDrive - Billion Prima Sdn.Bhd\billionprima_internship\3_Programme\TestApplication2\imageprocessor.cpp(962,40): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+D:\OneDrive - Billion Prima Sdn.Bhd\billionprima_internship\3_Programme\TestApplication2\imageprocessor.cpp(963,38): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+D:\OneDrive - Billion Prima Sdn.Bhd\billionprima_internship\3_Programme\TestApplication2\imageprocessor.cpp(1062,15): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\OneDrive - Billion Prima Sdn.Bhd\billionprima_internship\3_Programme\TestApplication2\imageprocessor.cpp(1063,16): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\OneDrive - Billion Prima Sdn.Bhd\billionprima_internship\3_Programme\TestApplication2\imageprocessor.cpp(1091,15): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\OneDrive - Billion Prima Sdn.Bhd\billionprima_internship\3_Programme\TestApplication2\imageprocessor.cpp(1092,16): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\OneDrive - Billion Prima Sdn.Bhd\billionprima_internship\3_Programme\TestApplication2\imageprocessor.cpp(1113,15): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\OneDrive - Billion Prima Sdn.Bhd\billionprima_internship\3_Programme\TestApplication2\imageprocessor.cpp(1114,16): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\OneDrive - Billion Prima Sdn.Bhd\billionprima_internship\3_Programme\TestApplication2\imageprocessor.cpp(1158,37): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  main.cpp
+  texture_item.cpp
+D:\OneDrive - Billion Prima Sdn.Bhd\billionprima_internship\3_Programme\TestApplication2\texture_item.cpp(164,9): warning C4838: conversion from 'int' to 'float' requires a narrowing conversion
+D:\OneDrive - Billion Prima Sdn.Bhd\billionprima_internship\3_Programme\TestApplication2\texture_item.cpp(164,9): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+D:\OneDrive - Billion Prima Sdn.Bhd\billionprima_internship\3_Programme\TestApplication2\texture_item.cpp(165,9): warning C4838: conversion from 'int' to 'float' requires a narrowing conversion
+D:\OneDrive - Billion Prima Sdn.Bhd\billionprima_internship\3_Programme\TestApplication2\texture_item.cpp(165,9): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+D:\OneDrive - Billion Prima Sdn.Bhd\billionprima_internship\3_Programme\TestApplication2\texture_item.cpp(165,18): warning C4838: conversion from 'int' to 'float' requires a narrowing conversion
+D:\OneDrive - Billion Prima Sdn.Bhd\billionprima_internship\3_Programme\TestApplication2\texture_item.cpp(165,18): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+D:\OneDrive - Billion Prima Sdn.Bhd\billionprima_internship\3_Programme\TestApplication2\texture_item.cpp(166,18): warning C4838: conversion from 'int' to 'float' requires a narrowing conversion
+D:\OneDrive - Billion Prima Sdn.Bhd\billionprima_internship\3_Programme\TestApplication2\texture_item.cpp(166,18): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+  Generating Code...
+  TestApplication2.vcxproj -> D:\OneDrive - Billion Prima Sdn.Bhd\billionprima_internship\3_Programme\TestApplication2\x64\Debug\TestApplication2.exe
+  'pwsh.exe' is not recognized as an internal or external command,
+  operable program or batch file.
